@@ -1,0 +1,135 @@
+.gloock-regular {
+    font-family: "Gloock", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .gfs-didot-regular {
+    font-family: "GFS Didot", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .title {
+    text-align: center;
+    font-family: Gloock;
+  }
+  
+  .subtitle{
+    text-align: center;
+    color: #AE0000;
+    font-size: 60px; 
+    font-family: GFS Didot; 
+  }
+  h1 {
+    color: #000;
+  font-family: Gloock;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 3.84px;
+  }
+  .quote {
+    color: #AE0000;
+    text-align: center;
+    font-size: 45px;
+    font-family: GFS Didot;
+  }
+   body {
+  background: linear-gradient(180deg, #FEFEFE 0%, #E4E4E4 100%);
+  width: 2200px;
+  height: 3900px;
+  }
+  
+  .profile img{
+    width: 385px;
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  .profile {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px 10px;
+  }
+  .year {
+    color: #AE0000;
+  font-family: GFS Didot;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 124.931%; /* 49.972px */
+  letter-spacing: -1.2px;
+  }
+  .description {
+    color: #000;
+  font-family: GFS Didot;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 124.931%;
+  letter-spacing: -1.2px;
+  }
+  .year, .description {
+    text-align: center;
+  }
+  .magazinecover3 img{
+    width: 100%;
+   width: 427.064px;
+  height: 504.437px;
+  flex-shrink: 0;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  .magazinecover3 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px 10px;}
+    .magazinecover2 img{
+    width: 100%;
+    max-width: 385px;
+    height: 375px;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  .magazinecover2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px 10px;}
+  
+    .magazinecover2 img{
+    width: 100%;
+   width: 427.064px;
+  height: 504.437px;
+  flex-shrink: 0;
+    object-fit: cover;
+    border-radius: 5px;
+  display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+  .tribute-link {
+    color: #AE0000;
+  }
+  #image {
+      text-align: center;
+      margin: 20px;}
